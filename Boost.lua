@@ -1,4 +1,4 @@
--- made by guesttester_1 (pls credit to me)
+-- Créditos para o @exp.io
 
 -- Função para otimizar o jogo removendo texturas, ajustando materiais e desativando sombras e efeitos
 local function optimizeForPerformance()
